@@ -1,2 +1,2 @@
-export { default as base } from './base';
-export { penderReducer as pender } from 'redux-pender';
+export { default as base } from './main';
+export { default as editor } from './demo';
